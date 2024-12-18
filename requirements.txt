@@ -1,0 +1,7 @@
+requests  
+beautifulsoup4  
+selenium==4.15.2  
+pandas  
+webdriver_manager
+python-dotenv
+selenium-wire
